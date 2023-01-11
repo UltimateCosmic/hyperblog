@@ -33,3 +33,4 @@ Ahora, pasemos con...
 
 Hecho por Diosito Cosmo
 Proximo Full-Stack Dev
+Disponible en KT-Core.com
