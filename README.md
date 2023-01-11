@@ -30,3 +30,5 @@ Ahora, pasemos con...
 [Unete a nosotros >:)](http://discord.gg/44YkqvF4Fb "## Unete >:)")
 
 2023-01-10 19:55:56 Tuesday
+
+Hecho por Diosito Cosmo
