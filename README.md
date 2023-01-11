@@ -32,3 +32,5 @@ Ahora, pasemos con...
 2023-01-10 19:55:56 Tuesday
 
 Hecho por Diosito Cosmo
+Proximo Full-Stack Dev
+Disponible en KT-Core.com
